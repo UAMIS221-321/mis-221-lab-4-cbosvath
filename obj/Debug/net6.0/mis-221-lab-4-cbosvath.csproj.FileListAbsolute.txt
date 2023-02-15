@@ -1,0 +1,15 @@
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\bin\Debug\net6.0\mis-221-lab-4-cbosvath.exe
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\bin\Debug\net6.0\mis-221-lab-4-cbosvath.deps.json
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\bin\Debug\net6.0\mis-221-lab-4-cbosvath.runtimeconfig.json
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\bin\Debug\net6.0\mis-221-lab-4-cbosvath.dll
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\bin\Debug\net6.0\mis-221-lab-4-cbosvath.pdb
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.csproj.AssemblyReference.cache
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.AssemblyInfoInputs.cache
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.AssemblyInfo.cs
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.csproj.CoreCompileInputs.cache
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.dll
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\refint\mis-221-lab-4-cbosvath.dll
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.pdb
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\mis-221-lab-4-cbosvath.genruntimeconfig.cache
+C:\Users\cosva\Documents\source\mis221\mis-221-lab-4-cbosvath\obj\Debug\net6.0\ref\mis-221-lab-4-cbosvath.dll
